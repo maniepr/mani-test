@@ -1,0 +1,15 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    border: 0px;
+}
+.brd{
+    border-radius: 0px;
+}
+body{
+    background-color: rgb(248, 245, 242);
+}
+.mani{
+    box-shadow: 2px 2px 7px black ;
+}
+
